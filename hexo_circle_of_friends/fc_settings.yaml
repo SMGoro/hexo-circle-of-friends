@@ -36,8 +36,9 @@ SETTINGS_FRIENDS_LINKS: {
         # 示例1：
         ["RSSBOX", "https://rssbox.imc.re/", "https://rssbox.imc.re/avatar.png"],
         ["XAOXUU", "https://xaoxuu.com", "https://bu.dusays.com/2021/09/24/2f74810ceb3d3.png"],
-        ["贰猹の小窝", "https://noionion.top/", "https://pub-noionion.oss-cn-hangzhou.aliyuncs.com/head.jpg"],
-        ["Akilarの糖果屋", "https://akilar.top/", "https://akilar.top/images/headimage.png"],
+        ["MHuiG", "https://blog.mhuig.top/", "https://blog.mhuig.top/lib/avatar/avatar-240.webp"],
+        # ["贰猹の小窝", "https://noionion.top/", "https://pub-noionion.oss-cn-hangzhou.aliyuncs.com/head.jpg"],
+        # ["Akilarの糖果屋", "https://akilar.top/", "https://akilar.top/images/headimage.png"],
         # 示例2：使用suffix的配置如下
         # 程序目前自动获取 "atom.xml", "feed/atom", "rss.xml", "rss2.xml", "feed", "index.xml" 这些后缀
         # 如果目标地址的后缀不在其中，就可以在这里添加
